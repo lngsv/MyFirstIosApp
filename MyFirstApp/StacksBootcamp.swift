@@ -20,7 +20,6 @@ struct StacksBootcamp: View {
             Rectangle()
                 .fill(.green)
                 .frame(width: 100, height: 100)
-            
         }
     }
 }

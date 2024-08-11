@@ -13,22 +13,22 @@ struct SpacerBootcamp: View {
             Spacer()
                 .frame(height:10)
                 .background(.orange)
-            
+
             Rectangle()
                 .frame(width: 100, height: 100)
-            
+
             Spacer(minLength: nil)
                 .frame(height:10)
                 .background(.orange)
-            
+
             Rectangle()
                 .fill(.red)
                 .frame(width: 100, height: 100)
-            
+
             Spacer()
                 .frame(height:10)
                 .background(.orange)
-            
+
         }
     }
 }
@@ -36,3 +36,4 @@ struct SpacerBootcamp: View {
 #Preview {
     SpacerBootcamp()
 }
+

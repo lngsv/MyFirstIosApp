@@ -17,9 +17,6 @@ struct TextBootcamp: View {
 //            .strikethrough()
 //            .font(.system(size: 36, design: .serif))
             .multilineTextAlignment(.trailing)
-            
-            
-            
     }
 }
 
