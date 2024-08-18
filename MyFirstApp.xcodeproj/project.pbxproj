@@ -39,6 +39,7 @@
 		EA8124542C6D91190066FC9F /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8124532C6D91190066FC9F /* SheetsBootcamp.swift */; };
 		EA8124562C6D96350066FC9F /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8124552C6D96350066FC9F /* PopoverBootcamp.swift */; };
 		EA8124582C6D9A750066FC9F /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8124572C6D9A750066FC9F /* NavigationViewBootcamp.swift */; };
+		EA81245A2C7149DE0066FC9F /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8124592C7149DE0066FC9F /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -75,6 +76,7 @@
 		EA8124532C6D91190066FC9F /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		EA8124552C6D96350066FC9F /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		EA8124572C6D9A750066FC9F /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
+		EA8124592C7149DE0066FC9F /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 				EA8124532C6D91190066FC9F /* SheetsBootcamp.swift */,
 				EA8124552C6D96350066FC9F /* PopoverBootcamp.swift */,
 				EA8124572C6D9A750066FC9F /* NavigationViewBootcamp.swift */,
+				EA8124592C7149DE0066FC9F /* ListBootcamp.swift */,
 				EA1F31952C5F06C10052E7B5 /* Assets.xcassets */,
 				EA1F31972C5F06C10052E7B5 /* Preview Content */,
 			);
@@ -246,6 +249,7 @@
 				EA81244C2C6C5A2B0066FC9F /* TernaryBootcamp.swift in Sources */,
 				EA8124582C6D9A750066FC9F /* NavigationViewBootcamp.swift in Sources */,
 				EA1F31B02C6319710052E7B5 /* StacksBootcamp.swift in Sources */,
+				EA81245A2C7149DE0066FC9F /* ListBootcamp.swift in Sources */,
 				EA1F31B42C6708200052E7B5 /* SpacerBootcamp.swift in Sources */,
 				EA1F31BC2C6810ED0052E7B5 /* GridBootcamp.swift in Sources */,
 				EA1F31AA2C630C3B0052E7B5 /* ImageBootcamp.swift in Sources */,
@@ -384,6 +388,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MyFirstApp/Preview Content\"";
+				DEVELOPMENT_TEAM = S2JF75WQY5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = MyFirstApp;
@@ -413,6 +418,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MyFirstApp/Preview Content\"";
+				DEVELOPMENT_TEAM = S2JF75WQY5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = MyFirstApp;
