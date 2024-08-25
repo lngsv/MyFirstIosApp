@@ -54,6 +54,7 @@
 		EA9D84C72C76D52F005AB450 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D84C62C76D52F005AB450 /* DarkModeBootcamp.swift */; };
 		EA9D84C92C76D90A005AB450 /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D84C82C76D90A005AB450 /* DocumentationBootcamp.swift */; };
 		EA9D84CB2C76DF82005AB450 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D84CA2C76DF82005AB450 /* OnAppearBootcamp.swift */; };
+		EA9D84CD2C76E52D005AB450 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D84CC2C76E52D005AB450 /* TapGestureBootcamp.swift */; };
 		EABAFF6E2C7189400089B3CA /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EABAFF6D2C7189400089B3CA /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -106,6 +107,7 @@
 		EA9D84C62C76D52F005AB450 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		EA9D84C82C76D90A005AB450 /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 		EA9D84CA2C76DF82005AB450 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		EA9D84CC2C76E52D005AB450 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 		EABAFF6D2C7189400089B3CA /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -185,6 +187,7 @@
 				EA9D84C62C76D52F005AB450 /* DarkModeBootcamp.swift */,
 				EA9D84C82C76D90A005AB450 /* DocumentationBootcamp.swift */,
 				EA9D84CA2C76DF82005AB450 /* OnAppearBootcamp.swift */,
+				EA9D84CC2C76E52D005AB450 /* TapGestureBootcamp.swift */,
 				EA1F31952C5F06C10052E7B5 /* Assets.xcassets */,
 				EA1F31972C5F06C10052E7B5 /* Preview Content */,
 			);
@@ -302,6 +305,7 @@
 				EA9D84C72C76D52F005AB450 /* DarkModeBootcamp.swift in Sources */,
 				EA9D84BD2C7259FF005AB450 /* ColorPickerBootcamp.swift in Sources */,
 				EA8124582C6D9A750066FC9F /* NavigationViewBootcamp.swift in Sources */,
+				EA9D84CD2C76E52D005AB450 /* TapGestureBootcamp.swift in Sources */,
 				EA1F31B02C6319710052E7B5 /* StacksBootcamp.swift in Sources */,
 				EA81245A2C7149DE0066FC9F /* ListBootcamp.swift in Sources */,
 				EA9D84B72C724EF5005AB450 /* TextEditorBootcamp.swift in Sources */,
